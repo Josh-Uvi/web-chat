@@ -6,7 +6,7 @@ A sample express app to demonstrate how to create a 2-way communication layer ov
 ## App Info
 I developed this app by watching Traversy Media on youtube, so credit goes to Brad Traversy.
 
-##Installation:
+## Installation
 To install node_modules:
 Use this command: npm install
 
